@@ -59,3 +59,22 @@
 #             print(amount2)
 #         elif amount1 == amount2:
 #             print('The amounts are equal.')
+#
+#6. Write an if-else statement that displays 'Speed is normal' if the speed variable is
+#within the range of 24 to 56. If the speed variable’s value is outside this range, display
+#'Speed is abnormal'.
+#
+# speed = int(input('What is the speed?: '))
+# if speed >= 24 and speed <= 56:
+#     print('Speed is normal.')
+# else:
+#     print('Speed is abnormal.')
+#7. Write an if-else statement that determines whether the points variable is outside
+#the range of 9 to 51. If the variable’s value is outside this range it should display
+#“Invalid points.” Otherwise, it should display “Valid points.”
+#
+# variable = int(input('What is the variable?: '))
+# if variable >= 9 and variable <= 51:
+#     print('Valid points.')
+# else:
+#     print('Invalid points.')
